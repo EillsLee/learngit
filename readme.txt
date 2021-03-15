@@ -1,1 +1,1 @@
-Version control system.
+A distributed version control system.
